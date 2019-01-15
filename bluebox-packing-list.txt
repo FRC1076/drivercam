@@ -1,0 +1,15 @@
+bluebox:
+  Raspberry Pi
+  Mouse
+  Powerbank + cord
+  short ethernet cable
+  AC charger
+
+packing list:
+  2 blueboxes
+  Keyboard
+  ()Monitor + power supply + HDMI cable (+HDMI to DVI converter)
+  (?)networking 5 port ethernet switch + power supply
+  box of USB webcams
+  
+  
