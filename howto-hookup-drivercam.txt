@@ -7,4 +7,4 @@ Then open a web browser on the driver station and connect to the video stream.
 @dannihu01 You’ll need to connect to the streaming URL, which, I think has the following form:
 http://10.10.76.17:5807/action=stream
 If that doesn’t work, then just attach to http://10.10.76.17:5807 and see what it suggests.
-Use .19 if that is the vision Pi that you get.
+Use .19 if that is the vision Pi that you get. and port 5809.
